@@ -1,0 +1,24 @@
+# Unreal Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+.vscode/
+
+# Build results
+*.exe
+*.dll
+*.app
+*.ipa
+
+# User files
+*.suo
+*.opensdf
+*.sdf
+*.user
+*.log
+
+# OS junk
+.DS_Store
+Thumbs.db
